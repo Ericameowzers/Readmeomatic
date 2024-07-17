@@ -78,4 +78,4 @@ GitHub: https://github.com/sarawrmas
 Email: sara.m.adamski@gmail.com
 
 ## Credits
-Sara Adamski
+
